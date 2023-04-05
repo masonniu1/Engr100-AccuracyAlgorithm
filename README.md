@@ -1,6 +1,6 @@
 # Engr101-AA
 
-Paste code into valid python IDE\
+Paste code into python IDE like PyCharm\
 In folder including code, insert train data and test data using\
 train_data.csv and test_data.csv as names\
 \
