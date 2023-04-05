@@ -1,4 +1,4 @@
-# Engr101-AA
+# Engr100-AA
 
 Paste code into python IDE like PyCharm\
 In folder including code, insert train data and test data using\
