@@ -1,4 +1,4 @@
-# Engr100-AA
+# Engr100-AccuracyAlgorithm
 
 Paste code into python IDE like PyCharm\
 In folder including code, insert train data and test data using\
