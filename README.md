@@ -8,4 +8,6 @@ All that is needed is running the program\
 It will run by itself and output an accuracy and test loss\
 \
 Test data and train data examples have been included\
-as test_data.csv and train_data.csv
+as test_data.csv and train_data.csv\
+\
+Main.py has comments throughout which describes what code does
